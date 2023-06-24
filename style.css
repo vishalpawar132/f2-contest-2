@@ -1,0 +1,58 @@
+.container {
+    /* max-width: 800px; */
+    margin: 0 auto;
+    padding: 20px;
+    background-color: rgba(14, 13, 13, 0.792);
+    margin-top: 50px;
+    width: 1000px;
+    height: 700px;
+  }
+  
+  .buttons {
+    margin-bottom: 20px;
+    color: #fff;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    
+  }
+  
+  th, td {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+    color: #fff;
+  }
+  
+  h1 {
+    text-align: center;
+    color: #fff;
+  }
+  
+  #coin-table img{
+    width:24px;
+  }
+
+  #search-input{
+    width: 627px;
+    height: 32px;
+    background-color: black;
+    color: white;
+  }
+
+  button{
+    width: 170px;
+    height: 39px;
+    background-color: rgba(45, 41, 41, 0.746);
+    color: white;
+  }
+
+  .buttons{
+    text-align: center;
+  }
+
+  table{
+    text-align: center;
+  }
